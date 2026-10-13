@@ -7,5 +7,5 @@ window.CONTACTS = {
     { id: '1532986870475002046', username: 'ankomstudios', name: '☭ⒶSMILEDEMICⒶ☭ــــــــﮩ٨ـ', match: /smiledemic|ankomstudios/i }
   ],
 
-  hidden: ['jarvas', 'riftsclaude', 'riftscodex', 'rhyme', 'carl-bot', 'stickme', 'protector', 'jarvis', 'widget bot', 'Rythm']
+  hidden: ['jarvas', 'riftsclaude', 'riftscodex', 'rhyme', 'carl-bot', 'stickme', 'protector', 'jarvis', 'widget bot', 'Rythm', '.fmbot']
 };
